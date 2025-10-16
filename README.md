@@ -13,3 +13,10 @@
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 </p>
+
+<h1 align="center">
+<a href="https://www.google.com/search?q=https://github.com/YOUR_USERNAME/YOUR_REPONAME">
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPONAME/main/animated_header.svg" alt="Typing SVG" />
+</a>
+</h1>
+
