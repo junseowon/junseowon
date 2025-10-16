@@ -14,9 +14,6 @@
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 </p>
 
-<p>
-<a href="story/start.md">
-<img src="https://img.shields.io/badge/style=for-the-badge&모험%20떠나기-8A2BE2"/>
-</a>
-</p>
+
+
 
