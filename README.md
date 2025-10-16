@@ -19,3 +19,10 @@
 <div align="center">
 <img src="ui/cave-entrance.svg">
 </div>
+
+<div align="center">
+<details>
+  <summary>🌟 모험 떠나기</summary>
+  <img src="https://raw.githubusercontent.com/username/repo/main/adventure_hover.svg" />
+</details>
+</div>
