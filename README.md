@@ -19,3 +19,9 @@
 <div align="center">
 <img src="ui/cave-entrance.svg" width="800">
 </div>
+
+<p align="center">
+<a href="https://www.google.com/url?sa=E&source=gmail&q=https://github.com/YOUR_USERNAME/YOUR_REPONAME/issues/new?title=[피드백]&body=여기에%20자세한%20내용을%20입력해주세요!">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/%ED%94%BC%EB%93%9C%EB%B0%B1%2520%EB%82%A8%EA%B8%B0%EA%B8%B0-181717%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="피드백 남기기"/>
+</a>
+</p>
