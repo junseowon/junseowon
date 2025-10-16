@@ -17,8 +17,8 @@
 
       .face {
         position: absolute;
-        width: 100px;
-        height: 100px;
+        width: 200px;
+        height: 200px;
         /* 각 면의 중심을 (0,0,0)에 맞추기 위해 위치 조정 */
         left: -50px; 
         top: -50px;
