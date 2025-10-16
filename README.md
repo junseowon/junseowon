@@ -16,7 +16,7 @@
 
 🛠 기술 스택
 <p align="center">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/javascript-%2523323330.svg%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3D%2523F7DF1E"/>
+<img src="https://img.shields.io/badge/javascript-%2523323330.svg%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3D%2523F7DF1E"/>
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/typescript-%2523007ACC.svg%3Fstyle%3Dfor-the-badge%26logo%3Dtypescript%26logoColor%3Dwhite"/>
 <img src="https://www.google.com/url?sa=E&source=gmail&q=https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge%26logo=react%26logoColor=%2361DAFB"/>
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/node.js-6DA55F%3Fstyle%3Dfor-the-badge%26logo%3Dnode.js%26logoColor%3Dwhite"/>
