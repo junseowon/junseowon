@@ -22,7 +22,9 @@
 
 <div align="center">
 <details>
-  <summary>🌟 모험 떠나기</summary>  
+  <summary>
+    <strong>▶ 모험 떠나기</strong>
+  </summary>  
   <text color="yellow">🌟 모험 떠나기</text>
 </details>
 </div>
