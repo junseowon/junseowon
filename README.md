@@ -17,5 +17,17 @@
 
 
 <div align="center">
+  <style>
+    .adventure-text {
+      fill: white;
+      transition: fill 0.3s ease-in-out;
+      cursor: pointer;
+    }
+
+  .adventure-text:hover {
+    fill: #f6e05e;
+    }
+    
+  </style>
 <img src="ui/cave-entrance.svg">
 </div>
