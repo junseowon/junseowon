@@ -15,9 +15,8 @@
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/dynamic/xml"/>
 <a href="story/start.md">
-<img src="https://img.shields.io/badge/%EB%AA%A8%ED%97%98_%EB%96%A0%EB%82%98%EA%B8%B0-34D399%3Fstyle%3Dfor-the-badge%26logo%3Drocket%26logoColor%3Dwhite" alt="모험 떠나기"/>
+<img src="https://img.shields.io/badge/just%20the%20message-8A2BE2" alt="모험 떠나기"/>
 </a>
 </p>
 
