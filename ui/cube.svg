@@ -50,7 +50,7 @@
   </defs>
   
   <!-- 3D 공간과 큐브를 foreignObject를 이용해 SVG 내에 렌더링 -->
-  <foreignObject x="-200" y="-200" width="200" height="200">
+  <foreignObject x="-100" y="-100" width="200" height="200">
     <div xmlns="http://www.w3.org/1999/xhtml" class="scene">
       <div class="cube">
         <div class="face front"></div>
