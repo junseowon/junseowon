@@ -13,13 +13,7 @@
 
       .leaf {
         animation: sway 4s ease-in-out infinite;
-        transform-origin: bottom center;        
-      }
-    
-      .adventure-text:hover {
-        fill: #f6e05e; /* 밝은 노란색으로 변경 */
-        cursor: pointer; /* 클릭 가능하다는 것을 알려주는 손가락 모양 커서 */        
-      }
+        transform-origin: bottom center;
     </style>
     <!-- 동굴의 깊이감을 표현하기 위한 그라데이션 -->
     <radialGradient id="caveGradient">
@@ -45,7 +39,7 @@
   <path d="M 100 130 C 110 80, 190 80, 200 130 Z" fill="url(#caveGradient)" />
   <!-- class="adventure-text" 를 추가하여 CSS 효과를 적용 -->
   <text class="adventure-text" x="150" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="white" font-weight="bold" letter-spacing="1">모험 떠나기</text>
-
+  
   <!-- 앞쪽의 움직이는 나무들 -->
   <!-- 왼쪽 나무 -->
   <rect x="75" y="100" width="12" height="30" fill="#784b2b" />
