@@ -17,5 +17,5 @@
 
 
 <div align="center">
-<img src="cave-entrance.svg" alt="Animated Welcome Header">
+<img src="cave-entrance.svg">
 </div>
