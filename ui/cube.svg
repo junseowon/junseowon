@@ -12,7 +12,7 @@
         position: relative;
         transform-style: preserve-3d;
         /* 회전 애니메이션 적용 */
-        animation: rotate-axis 10s infinite linear;
+        animation: rotate-cube 10s infinite linear;
       }
 
       .face {
@@ -40,10 +40,10 @@
       @keyframes rotate-cube {
         from {
           /* rotate3d(x, y, z, angle) : x,y,z 벡터를 축으로 회전 */
-          transform: rotateY(0deg);
+          transform: perspective(800px) rotateY(0deg);
         }
         to {
-          transform: rotateY(360deg);
+          transform: perspective(800px) rotateY(360deg);
         }
       }
     </style>
