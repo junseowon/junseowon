@@ -1,0 +1,53 @@
+<svg width="220" height="60" viewBox="0 0 220 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- 
+      이 버튼을 클릭하면 dark_mode_button.svg로 이동하여 토글 효과를 냅니다.
+      두 SVG 파일을 모두 레포지토리에 업로드하고 아래의 URL을 당신의 정보로 수정해야 합니다.
+      [YOUR_USERNAME] -> 당신의 GitHub 아이디
+      [YOUR_REPONAME] -> 이 파일이 있는 레포지토리 이름
+    -->
+    <a href="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPONAME/main/dark_mode_button.svg">
+        <foreignObject width="100%" height="100%">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <style>
+                    .container {
+                        display: flex;
+                        align-items: center;
+                        justify-content: center;
+                        width: 220px;
+                        height: 60px;
+                        background-color: #f6f8fa;
+                        border: 1px solid #d1d5da;
+                        border-radius: 10px;
+                        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+                        font-size: 16px;
+                        font-weight: bold;
+                        color: #24292e;
+                        cursor: pointer;
+                        transition: background-color 0.2s;
+                    }
+                    .container:hover {
+                        background-color: #e1e4e8;
+                    }
+                    .icon {
+                        margin-right: 10px;
+                    }
+                </style>
+                <div class="container">
+                    <!-- 해 아이콘 -->
+                    <svg class="icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#24292e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                    <span>다크 모드로 전환</span>
+                </div>
+            </div>
+        </foreignObject>
+    </a>
+</svg>
