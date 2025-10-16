@@ -1,0 +1,66 @@
+<svg width="400" height="400" viewBox="-100 -100 200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      /* 3D 렌더링 공간 설정 */
+      .scene {
+        perspective: 400px;
+      }
+
+      .cube {
+        width: 100%;
+        height: 100%;
+        position: relative;
+        transform-style: preserve-3d;
+        /* 회전 애니메이션 적용 */
+        animation: rotate-cube 10s infinite linear;
+      }
+
+      .face {
+        position: absolute;
+        width: 100px;
+        height: 100px;
+        /* 각 면의 중심을 (0,0,0)에 맞추기 위해 위치 조정 */
+        left: -50px; 
+        top: -50px;
+        border: 1px solid #333;
+        /* 반투명하게 만들어 뒷면이 보이게 함 */
+        opacity: 0.8;
+      }
+
+      /* 6개의 면을 3D 공간에 배치 */
+      .front  { transform: rotateY(  0deg) translateZ(50px); background: #ef4444; }
+      .back   { transform: rotateY(180deg) translateZ(50px); background: #f97316; }
+      .right  { transform: rotateY( 90deg) translateZ(50px); background: #eab308; }
+      .left   { transform: rotateY(-90deg) translateZ(50px); background: #84cc16; }
+      .top    { transform: rotateX( 90deg) translateZ(50px); background: #22c55e; }
+      .bottom { transform: rotateX(-90deg) translateZ(50px); background: #3b82f6; }
+
+      /* --- 수정된 부분 --- */
+      /* 큐브를 중앙 축으로 회전시키는 애니메이션 */
+      @keyframes rotate-cube {
+        0% {
+          /* X축으로 살짝 기울인 상태에서 시작 */
+          transform: rotateX(-25deg) rotateY(0deg);
+        }
+        100% {
+          /* 기울어진 상태를 유지하며 Y축으로만 360도 회전 */
+          transform: rotateX(-25deg) rotateY(360deg);
+        }
+      }
+    </style>
+  </defs>
+  
+  <!-- 3D 공간과 큐브를 foreignObject를 이용해 SVG 내에 렌더링 -->
+  <foreignObject x="-100" y="-100" width="200" height="200">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="scene">
+      <div class="cube">
+        <div class="face front"></div>
+        <div class="face back"></div>
+        <div class="face right"></div>
+        <div class="face left"></div>
+        <div class="face top"></div>
+        <div class="face bottom"></div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
