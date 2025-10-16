@@ -40,7 +40,7 @@
       @keyframes rotate-cube {
         from {
           /* rotate3d(x, y, z, angle) : x,y,z 벡터를 축으로 회전 */
-          transform: rotate3d(1, 1, 0, 0deg);
+          transform: rotate3d(0, 1, 0, 0deg);
         }
         to {
           transform: rotate3d(1, 1, 0, 360deg);
