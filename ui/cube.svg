@@ -24,7 +24,7 @@
         top: -50px;
         border: 1px solid #333;
         /* 반투명하게 만들어 뒷면이 보이게 함 */
-        opacity: 1;
+        opacity: 100;
       }
 
       /* 6개의 면을 3D 공간에 배치 */
