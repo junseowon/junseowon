@@ -17,21 +17,10 @@
 
 
 <div align="center">
-    
-<style>
-.adventure-text {
-fill: white;
-transition: fill 0.3s ease-in-out;
-cursor: pointer;
-}
-.adventure-text:hover {
-fill: #f6e05e;
-}
-</style>
 
 <img src="ui/cave-entrance.svg">
 
-<text class="adventure-text" x="150" y="80"
+<text class="adventure-text:hover" x="150" y="80"
           text-anchor="middle"
           font-family="Arial"
           font-size="24"
