@@ -16,7 +16,7 @@
 
 <p>
 <a href="story/start.md">
-<img src="https://img.shields.io/badge/just%20the%20message-8A2BE2" alt="모험 떠나기"/>
+<img src="https://img.shields.io/badge/모험%떠나기-8A2BE2"/>
 </a>
 </p>
 
