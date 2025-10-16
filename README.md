@@ -10,14 +10,8 @@
 추가 정보
 
 <p align="center">
-<a href="https://www.google.com/search?q=https://github.com/YOUR_USERNAME" target="_blank">
+<a href="https://www.google.com/search?q=https://github.com/junseowon" target="_blank">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Projects-Github-blue%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite"/>
-</a>
-<a href="https://example.com" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Blog-Tistory-green%3Fstyle%3Dfor-the-badge%26logo%3Dtistory%26logoColor%3Dwhite"/>
-</a>
-<a href="mailto:youremail@example.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Contact-Email-lightgrey%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite"/>
 </a>
 </p>
 
