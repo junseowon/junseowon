@@ -51,7 +51,7 @@
 
   <!-- 앞쪽의 움직이는 나무들 -->
   <!-- 왼쪽 나무 -->
-  <rect x="75" y="90" width="12" height="30" fill="#784b2b" />
+  <rect x="75" y="100" width="12" height="30" fill="#784b2b" />
   <g class="leaf" style="animation-delay: -0.5s;">
     <circle cx="81" cy="85" r="20" fill="#38a169" />
   </g>
