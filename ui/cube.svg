@@ -38,10 +38,10 @@
       @keyframes rotate-cube {
         from {
           /* rotate3d(x, y, z, angle) : x,y,z 벡터를 축으로 회전 */
-          transform: perspective(800px) rotateY(0deg);
+          transform: perspective(800px) rotateY(0deg) rotateX(0deg);
         }
         to {
-          transform: perspective(800px) rotateY(360deg);
+          transform: perspective(800px) rotateY(360deg) rotateX(360deg);
         }
       }
     </style>
