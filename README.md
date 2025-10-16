@@ -6,3 +6,8 @@
 <div align="center">
 <img src="animated_header.svg" alt="Animated Welcome Header">
 </div>
+
+
+<div align="center">
+<img src="dark_mode_button.svg">
+</div>
