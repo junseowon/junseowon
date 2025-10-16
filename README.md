@@ -21,4 +21,5 @@
 <img src="https://www.google.com/url?sa=E&source=gmail&q=https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge%26logo=react%26logoColor=%2361DAFB"/>
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/node.js-6DA55F%3Fstyle%3Dfor-the-badge%26logo%3Dnode.js%26logoColor%3Dwhite"/>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 </p>
