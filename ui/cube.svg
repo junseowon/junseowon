@@ -1,4 +1,4 @@
-<svg width="0" height="0" viewBox="-100 -100 200 200" xmlns="http://www.w3.org/2000/svg">
+<svg width="400" height="400" viewBox="-100 -100 200 200" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <style>
       /* 3D 렌더링 공간 설정 */
@@ -12,7 +12,7 @@
         position: relative;
         transform-style: preserve-3d;
         /* 회전 애니메이션 적용 */
-        #animation: rotate-cube 10s infinite linear;
+        animation: rotate-cube 10s infinite linear;
       }
 
       .face {
@@ -50,7 +50,7 @@
   </defs>
   
   <!-- 3D 공간과 큐브를 foreignObject를 이용해 SVG 내에 렌더링 -->
-  <foreignObject x="-100" y="-100" width="200" height="200">
+  <foreignObject x="-200" y="-200" width="200" height="200">
     <div xmlns="http://www.w3.org/1999/xhtml" class="scene">
       <div class="cube">
         <div class="face front"></div>
