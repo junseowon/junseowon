@@ -12,7 +12,7 @@
         position: relative;
         transform-style: preserve-3d;
         /* 회전 애니메이션 적용 */
-        animation: rotate-cube 2s infinite linear;
+        animation: rotate-cube .5s infinite linear;
       }
 
       .face {
