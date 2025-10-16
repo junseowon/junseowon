@@ -17,6 +17,7 @@
 
 
 <div align="center">
+    
 <style>
 .adventure-text {
 fill: white;
@@ -26,8 +27,8 @@ cursor: pointer;
 .adventure-text:hover {
 fill: #f6e05e;
 }
-    
-  </style>
+</style>
+
 <img src="ui/cave-entrance.svg">
 
 <text class="adventure-text" x="150" y="80"
