@@ -17,7 +17,7 @@
       type="rotate"
       from="0 100 100"
       to="360 100 100"
-      dur="10s"
+      dur="1s"
       repeatCount="indefinite"
     />
   </image>
