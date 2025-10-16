@@ -18,7 +18,7 @@
       <animateTransform
         attributeName="transform"
         type="scale"
-        dur="1s"
+        dur=".5s"
         repeatCount="indefinite"
         values="1,1; -1,1; 1,1"
         keyTimes="0; 0.5; 1"
