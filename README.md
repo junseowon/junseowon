@@ -30,4 +30,12 @@
     
   </style>
 <img src="ui/cave-entrance.svg">
+
+<text class="adventure-text" x="150" y="80"
+          text-anchor="middle"
+          font-family="Arial"
+          font-size="24"
+          font-weight="bold">
+      모험 떠나기
+    </text>
 </div>
