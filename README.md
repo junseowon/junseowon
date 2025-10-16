@@ -17,5 +17,5 @@
 
 
 <div align="center">
-<img src="ui/cave-entrance.svg" width="400">
+<img src="ui/cave-entrance.svg" width="800">
 </div>
