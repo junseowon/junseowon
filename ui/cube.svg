@@ -29,11 +29,11 @@
 
       /* 6개의 면을 3D 공간에 배치 */
       .front  { transform: rotateY(  0deg) translateZ(50px); background: #ef4444; }
-      .back   { transform: rotateY(180deg) translateZ(50px); background: #f97316; }
-      .right  { transform: rotateY( 90deg) translateZ(50px); background: #eab308; }
-      .left   { transform: rotateY(-90deg) translateZ(50px); background: #84cc16; }
-      .top    { transform: rotateX( 90deg) translateZ(50px); background: #22c55e; }
-      .bottom { transform: rotateX(-90deg) translateZ(50px); background: #3b82f6; }
+      .back   { transform: rotateY(180deg) translateZ(50px); background: #ef4444; }
+      .right  { transform: rotateY( 90deg) translateZ(50px); background: #ef4444; }
+      .left   { transform: rotateY(-90deg) translateZ(50px); background: #ef4444; }
+      .top    { transform: rotateX( 90deg) translateZ(50px); background: #ef4444; }
+      .bottom { transform: rotateX(-90deg) translateZ(50px); background: #ef4444; }
 
       /* --- 수정된 부분 --- */
       /* 큐브를 중앙 대각선 축으로 회전시키는 애니메이션 */
