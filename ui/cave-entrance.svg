@@ -4,10 +4,10 @@
       /* 나뭇잎이 바람에 흔들리는 애니메이션 효과 */
       @keyframes sway {
         0%, 100% {
-          transform: rotate(-2deg);
+          transform: rotate(-1deg);
         }
         50% {
-          transform: rotate(2deg);
+          transform: rotate(1deg);
         }
       }
 
