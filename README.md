@@ -22,7 +22,7 @@
 
 <div align="center">
 <details>
-  <summary>🌟 모험 떠나기</summary>
-  <img src="https://raw.githubusercontent.com/username/repo/main/adventure_hover.svg" />
+  <summary>🌟 모험 떠나기</summary>  
+  <text color="yellow">🌟 모험 떠나기</text>
 </details>
 </div>
