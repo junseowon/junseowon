@@ -13,14 +13,12 @@
 
       .leaf {
         animation: sway 4s ease-in-out infinite;
-        transform-origin: bottom center;
-        transition: fill 0.2s ease-in-out;
+        transform-origin: bottom center;        
       }
     
       .adventure-text:hover {
         fill: #f6e05e; /* 밝은 노란색으로 변경 */
-        cursor: pointer; /* 클릭 가능하다는 것을 알려주는 손가락 모양 커서 */
-        transition: fill 0.2s ease-in-out; /* 색이 부드럽게 바뀌는 효과 */
+        cursor: pointer; /* 클릭 가능하다는 것을 알려주는 손가락 모양 커서 */        
       }
     </style>
     <!-- 동굴의 깊이감을 표현하기 위한 그라데이션 -->
