@@ -36,15 +36,14 @@
       .bottom { transform: rotateX(-90deg) translateZ(50px); background: #3b82f6; }
 
       /* --- 수정된 부분 --- */
-      /* 큐브를 중앙 축으로 회전시키는 애니메이션 */
+      /* 큐브를 중앙 대각선 축으로 회전시키는 애니메이션 */
       @keyframes rotate-cube {
-        0% {
-          /* X축으로 살짝 기울인 상태에서 시작 */
-          transform: rotateX(-25deg) rotateY(0deg);
+        from {
+          /* rotate3d(x, y, z, angle) : x,y,z 벡터를 축으로 회전 */
+          transform: rotate3d(1, 1, 0, 0deg);
         }
-        100% {
-          /* 기울어진 상태를 유지하며 Y축으로만 360도 회전 */
-          transform: rotateX(-25deg) rotateY(360deg);
+        to {
+          transform: rotate3d(1, 1, 0, 360deg);
         }
       }
     </style>
