@@ -17,14 +17,5 @@
 
 
 <div align="center">
-<img src="ui/cave-entrance.svg">
-</div>
-
-<div align="center">
-<details>
-  <summary>
-    <strong>▶ 모험 떠나기</strong>
-  </summary>  
-  <text color="yellow">🌟 모험 떠나기</text>
-</details>
+<img src="ui/cave-entrance.svg" width="400">
 </div>
