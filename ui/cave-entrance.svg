@@ -47,7 +47,7 @@
   <!-- 동굴 입구 -->
   <path d="M 100 130 C 110 80, 190 80, 200 130 Z" fill="url(#caveGradient)" />
   <!-- class="adventure-text" 를 추가하여 CSS 효과를 적용 -->
-  <text class="adventure-text" x="150" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="white" font-weight="bold" letter-spacing="1">모험 떠나기</text>
+  <text class="adventure-text" x="150" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="white" font-weight="bold" letter-spacing="1">모험 떠나기</text>
 
   <!-- 앞쪽의 움직이는 나무들 -->
   <!-- 왼쪽 나무 -->
