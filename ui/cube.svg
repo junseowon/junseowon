@@ -20,8 +20,8 @@
         width: 100px;
         height: 100px;
         /* 각 면의 중심을 (0,0,0)에 맞추기 위해 위치 조정 */
-        left: -50px; 
-        top: -50px;
+        left: -100px; 
+        top: -100px;
         border: 1px solid #333;
         /* 반투명하게 만들어 뒷면이 보이게 함 */
         opacity: 1;
