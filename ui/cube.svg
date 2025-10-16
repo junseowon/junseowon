@@ -3,7 +3,7 @@
     <style>
       /* 3D 렌더링 공간 설정 */
       .scene {
-        perspective: 400px;
+        perspective: 200px;
       }
 
       .cube {
