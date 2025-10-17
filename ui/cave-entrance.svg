@@ -1,7 +1,7 @@
 <svg width="300" height="150" viewBox="0 0 300 150" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <style>
-      /* 나뭇잎이 바람에 흔들리는 애니메이션 효과 */
+    <style>      
+      <!-- 나뭇잎이 바람에 흔들리는 애니메이션 효과 -->
       @keyframes sway {
         0%, 100% {
           transform: rotate(-1deg);
