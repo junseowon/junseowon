@@ -20,18 +20,9 @@
                     border-right: 4px solid #24292e; 
                     width: 0;
 
-                    color: transparent;
-                    background-color: var(--text-color); /* background-clip 미지원 브라우저용 */
-                    background-image: linear-gradient(to right, var(--text-color), var(--text-color));
-                    background-size: 100% 100%;
-                    background-repeat: no-repeat;
-                    background-clip: text;
-                    -webkit-background-clip: text;
-                
                     animation:
                         typing 2s steps(29, end) forwards, 
-                        blink 1s 4,                        
-                        wave-wipe 1.5s ease-out 4.2s forwards,
+                        blink 1s 4,                                                
                         wave 3s linear 5.7s infinite;           
                 }
 
@@ -69,26 +60,7 @@
                         -webkit-background-clip: text;
                         background-position: 0 0;
                     }
-                }
-
-                /* 3. 파란색으로 서서히 바뀌는 물결(Wipe) 효과 */
-                @keyframes wave-wipe {
-                    0% {
-                        border-color: transparent; /* 커서 숨기기 */
-                        /* 기존 텍스트 색상 위에 파란색 그라데이션을 0% 너비로 추가합니다. */
-                        background-image:
-                            linear-gradient(90deg, var(--wave-color-1), var(--wave-color-2), var(--wave-color-1)),
-                            linear-gradient(to right, var(--text-color), var(--text-color));
-                        background-size: 0% 100%, 100% 100%;
-                        background-position: 0 0, 0 0;
-                    }
-                    100% {
-                        border-color: transparent;
-                        /* 파란색 그라데이션의 너비를 100%로 늘려 기존 색상을 덮습니다. */
-                        background-size: 100% 100%, 100% 100%;
-                        background-position: 0 0, 0 0;
-                    }
-                }
+                }                            
 
                 /* 다크 모드 지원 (GitHub 테마에 맞게 자동으로 색상이 변경됩니다) */
                 @media (prefers-color-scheme: dark) {
