@@ -41,14 +41,16 @@
 
                 @keyframes fillBlue {
                     0% {
-                        background: linear-gradient(90deg, #0d47a1 0%, #0d47a1 0%, transparent 100%);
-                        background-size: 200% 100%;
-                        background-position: 100% 0;
+                        color: transparent;
+                        background: linear-gradient(90deg, #0d47a1 0%, #42a5f5 0%);
+                        background-clip: text;
+                        -webkit-background-clip: text;
                     }
                     100% {
-                        background: linear-gradient(90deg, #0d47a1, #42a5f5, #0d47a1);
-                        background-size: 200% 100%;
-                        background-position: 0 0;
+                        color: transparent;
+                        background: linear-gradient(90deg, #0d47a1 0%, #42a5f5 100%);
+                        background-clip: text;
+                        -webkit-background-clip: text;
                     }
                 }
 
