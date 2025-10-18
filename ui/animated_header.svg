@@ -22,8 +22,9 @@
 
                     animation:
                         typing 4s steps(29, end) forwards,                         
-                        wave 3s linear 4s infinite,
-                        blink 1s infinite;           
+                        blink 1s 4,
+                        fillBlue 2s ease-in 4s forwards, 
+                        wave 3s linear 4s infinite;           
                 }
 
                 /* 타이핑 효과를 위한 키프레임 */
@@ -36,6 +37,21 @@
                 @keyframes blink {
                     0%, 100% { border-color: transparent; }
                     50% { border-color: #24292e; }
+                }
+
+                @keyframes fillBlue {
+                    0% {
+                        color: transparent;
+                        background: linear-gradient(90deg, #0d47a1 0%, #42a5f5 0%);
+                        background-clip: text;
+                        -webkit-background-clip: text;
+                    }
+                    100% {
+                        color: transparent;
+                        background: linear-gradient(90deg, #0d47a1 0%, #42a5f5 100%);
+                        background-clip: text;
+                        -webkit-background-clip: text;
+                    }
                 }
 
                 /* 3. 파란색 물결 효과를 위한 키프레임 */
