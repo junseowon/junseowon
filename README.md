@@ -10,4 +10,7 @@
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 </p>
-![S5q](https://github.com/user-attachments/assets/f1d76beb-df95-4156-a59b-c3b9680ae9ba)
+
+<p>
+<a href="https://github.com/user-attachments/assets/f1d76beb-df95-4156-a59b-c3b9680ae9ba"></a>
+</p>
