@@ -12,15 +12,15 @@
                     width: 100%;
                 }
                 .typing-text {
-                    font-size: 2.5em; /* 글자 크기 */
+                    font-size: 2.5em;
                     font-weight: bold;
-                    color: #24292e; /* GitHub 기본 텍스트 색상 (라이트 모드) */
-                    white-space: nowrap; /* 텍스트가 한 줄로 표시되도록 설정 */
-                    overflow: hidden; /* 영역을 벗어나는 텍스트를 숨김 */
-                    border-right: 4px solid #24292e; /* 타이핑 커서 효과 */
-                    /* 애니메이션 효과 정의 */
+                    color: #24292e;
+                    white-space: nowrap; 
+                    overflow: hidden;
+                    border-right: 4px solid #24292e; 
+              
                     animation:
-                        typing 4s steps(29, end) forwards, /* 29는 글자 수(공백 포함)입니다. */
+                        typing 4s steps(29, end) forwards, 
                         blink 1s infinite;
                     width: 0;
                 }
@@ -28,13 +28,37 @@
                 /* 타이핑 효과를 위한 키프레임 */
                 @keyframes typing {
                     from { width: 0; }
-                    to { width: 29ch; } /* 'ch' 단위는 글자 폭을 기준으로 합니다. 29글자 길이만큼 너비를 늘립니다. */
+                    to { width: 29ch; }
                 }
 
                 /* 커서 깜빡임 효과를 위한 키프레임 */
                 @keyframes blink {
                     0%, 100% { border-color: transparent; }
                     50% { border-color: #24292e; }
+                }
+
+                /* 3. 파란색 물결 효과를 위한 키프레임 */
+                @keyframes wave {
+                    0% {
+                        /* 애니메이션 시작 시점에 색상을 투명하게 하고 그라데이션 배경을 적용합니다. */
+                        color: transparent;
+                        border-color: transparent; /* 커서 숨기기 */
+                        background-image: linear-gradient(90deg, #0d47a1, #42a5f5, #0d47a1);
+                        background-size: 200% 100%;
+                        background-clip: text;
+                        -webkit-background-clip: text;
+                        background-position: 200% 0;
+                    }
+                    100% {
+                        /* 그라데이션 배경을 왼쪽으로 이동시켜 물결 효과를 만듭니다. */
+                        color: transparent;
+                        border-color: transparent;
+                        background-image: linear-gradient(90deg, #0d47a1, #42a5f5, #0d47a1);
+                        background-size: 200% 100%;
+                        background-clip: text;
+                        -webkit-background-clip: text;
+                        background-position: 0 0;
+                    }
                 }
 
                 /* 다크 모드 지원 (GitHub 테마에 맞게 자동으로 색상이 변경됩니다) */
