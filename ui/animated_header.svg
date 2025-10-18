@@ -23,7 +23,7 @@
                     animation:
                         typing 2s steps(29, end) forwards, 
                         blink 1s 5,                        
-                        wave 3s linear infinite forwards;    
+                        wave 3s linear 4s forwards infinite;    
                 }
 
                 /* 타이핑 효과를 위한 키프레임 */
