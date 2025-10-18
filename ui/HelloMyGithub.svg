@@ -1,0 +1,82 @@
+<svg fill="none" viewBox="0 0 800 100" width="800" height="100" xmlns="http://www.w3.org/2000/svg">
+    
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+                .container {
+                    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    height: 100%;
+                    width: 100%;
+                }
+                .typing-text {
+                    font-size: 2.5em;
+                    font-weight: bold;
+                    color: #24292e;
+                    white-space: nowrap; 
+                    overflow: hidden;
+                    border-right: 4px solid #24292e; 
+                    width: 0;
+
+                    animation:
+                        typing 4s steps(29, end) forwards,                         
+                        blink 1s 4,                    
+                        wave 3s linear 4s infinite;           
+                }
+
+                /* 타이핑 효과를 위한 키프레임 */
+                @keyframes typing {
+                    from { width: 0; }
+                    to { width: 29ch; }
+                }
+
+                /* 커서 깜빡임 효과를 위한 키프레임 */
+                @keyframes blink {
+                    0%, 100% { border-color: transparent; }
+                    50% { border-color: #24292e; }
+                }         
+
+                /* 3. 파란색 물결 효과를 위한 키프레임 */
+                @keyframes wave {
+                    0% {
+                        /* 애니메이션 시작 시점에 색상을 투명하게 하고 그라데이션 배경을 적용합니다. */
+                        color: transparent;
+                        border-color: transparent;
+                        background-image: linear-gradient(90deg, #0d47a1, #42a5f5, #0d47a1);
+                        background-size: 200% 100%;
+                        background-clip: text;
+                        -webkit-background-clip: text;
+                        background-position: 200% 0;
+                    }
+                    100% {
+                        /* 그라데이션 배경을 왼쪽으로 이동시켜 물결 효과를 만듭니다. */
+                        color: transparent;
+                        border-color: transparent;
+                        background-image: linear-gradient(90deg, #0d47a1, #42a5f5, #0d47a1);
+                        background-size: 200% 100%;
+                        background-clip: text;
+                        -webkit-background-clip: text;
+                        background-position: 0 0;
+                    }
+                }                            
+
+                /* 다크 모드 지원 (GitHub 테마에 맞게 자동으로 색상이 변경됩니다) */
+                @media (prefers-color-scheme: dark) {
+                    .typing-text {
+                        color: #c9d1d9; /* GitHub 기본 텍스트 색상 (다크 모드) */
+                        border-right-color: #c9d1d9;
+                    }
+                    @keyframes blink {
+                        0%, 100% { border-color: transparent; }
+                        50% { border-color: #c9d1d9; }
+                    }
+                }
+            </style>
+            <div class="container">
+                <h1 class="typing-text">Welcome to my GitHub Profile!</h1>
+            </div>
+        </div>
+    </foreignObject>
+</svg>
