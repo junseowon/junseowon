@@ -22,7 +22,7 @@
 
                     animation:
                         typing 4s steps(29, end) forwards, 
-                        blink .7s 3,                                                
+                        blink 0.7s 3,                                                
                         wave 3s linear 5.7s infinite;           
                 }
 
