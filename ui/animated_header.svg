@@ -24,7 +24,7 @@
                         typing 4s steps(29, end) forwards,                         
                         blink 1s 4,
                         fillBlue 2s ease-in 4s forwards, 
-                        wave 3s linear 4s infinite;           
+                        wave 3s linear 6s infinite;           
                 }
 
                 /* 타이핑 효과를 위한 키프레임 */
