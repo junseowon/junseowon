@@ -1,7 +1,7 @@
 안녕하세요! 제 GitHub 프로필입니다. 👋
 
 <div align="center">
-<img src="animated_header.svg">
+<img src="ui/animated_header.svg">
 </div>
 
 🛠 기술 스택
