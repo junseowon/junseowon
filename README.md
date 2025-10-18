@@ -1,7 +1,7 @@
 안녕하세요! 제 GitHub 프로필입니다. 👋
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/9a19a8b2-2bc9-48a9-a31d-9d42fac0c74b">
+<img src="ui/HelloMyGithub.svg"/>
 </div>
 
 🛠 기술 스택
