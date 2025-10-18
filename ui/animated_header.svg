@@ -45,8 +45,7 @@
                         background: linear-gradient(90deg, #0d47a1 0%, #42a5f5 0%);
                         background-clip: text;
                         -webkit-background-clip: text;
-                        background-size: 0% 100%;
-                        background-repeat: no-repeat;
+                        background-size: 0% 100%;                        
                     }
                     100% {
                         color: transparent;
