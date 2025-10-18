@@ -18,12 +18,12 @@
                     white-space: nowrap; 
                     overflow: hidden;
                     border-right: 4px solid #24292e; 
-              
+                    width: 0;
+                
                     animation:
                         typing 4s steps(29, end) forwards, 
-                        blink 1s 4;
-                        wave 3s linear 4s forwards;
-                    width: 0;
+                        blink 1s 4,
+                        wave 3s linear 4s forwards;    
                 }
 
                 /* 타이핑 효과를 위한 키프레임 */
