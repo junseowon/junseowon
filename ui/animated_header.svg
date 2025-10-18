@@ -21,8 +21,8 @@
                     width: 0;
 
                     animation:
-                        typing 2s steps(29, end) forwards, 
-                        blink 1s 4,                                                
+                        typing 4s steps(29, end) forwards, 
+                        blink .7s 3,                                                
                         wave 3s linear 5.7s infinite;           
                 }
 
