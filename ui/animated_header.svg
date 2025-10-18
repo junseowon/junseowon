@@ -19,6 +19,14 @@
                     overflow: hidden;
                     border-right: 4px solid #24292e; 
                     width: 0;
+
+                    color: transparent;
+                    background-color: var(--text-color); /* background-clip 미지원 브라우저용 */
+                    background-image: linear-gradient(to right, var(--text-color), var(--text-color));
+                    background-size: 100% 100%;
+                    background-repeat: no-repeat;
+                    background-clip: text;
+                    -webkit-background-clip: text;
                 
                     animation:
                         typing 2s steps(29, end) forwards, 
