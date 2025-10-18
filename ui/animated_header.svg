@@ -21,9 +21,9 @@
                     width: 0;
 
                     animation:
-                        typing 3s steps(29, end) forwards, 
+                        typing 4s steps(29, end) forwards, 
                         blink 1s 4,
-                        wave 2s linear 5.7s infinite;           
+                        wave 3s linear 4s infinite;           
                 }
 
                 /* 타이핑 효과를 위한 키프레임 */
