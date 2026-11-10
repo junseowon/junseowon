@@ -44,7 +44,7 @@
     <tr>
       <td valign='top' align='left'><b><font color='#FF5722'>22</font></b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
       <td valign='top' align='left'><b>23</b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
-      <td valign='top' align='left'><b>24</b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
+      <td valign='top' align='left'><b>24</b><br><nobr>🔹 <a href='https://www.tossinvest.com/stocks/A498150/order'><kbd><b>엠비디</b></kbd></a></nobr><br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
       <td valign='top' align='left'><b>25</b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
       <td valign='top' align='left'><b>26</b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
       <td valign='top' align='left'><b>27</b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
@@ -64,7 +64,7 @@
 
 > 🔹 **국내 공모주 상장** &nbsp;|&nbsp; 🔸 **미국 액면병합 (Reverse Split)** *(클릭 시 토스증권 이동)*
 
-<sub>*마지막 자동 갱신: 2026-11-10 15:56 KST (via Auto Sync)*</sub>
+<sub>*마지막 자동 갱신: 2026-11-10 18:03 KST (via Auto Sync)*</sub>
 
 <!-- CALENDAR:END -->
 
