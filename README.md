@@ -67,3 +67,5 @@
 <sub>*마지막 자동 갱신: 2026-11-10 15:56 KST (via Auto Sync)*</sub>
 
 <!-- CALENDAR:END -->
+
+Ctrl + click으로 새 탭에서 주식 보기 가능
