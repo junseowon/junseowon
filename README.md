@@ -26,19 +26,19 @@
     <tr>
       <td valign='top' align='left'><b><font color='#FF5722'>8</font></b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
       <td valign='top' align='left'><b>9</b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
-      <td valign='top' align='left'><b><ins>📍 10</ins></b><br><nobr>🔹 <b>동원파츠</b></nobr><br><nobr>🔸 <code>JOB 1:30</code></nobr><br><nobr>🔸 <code>NCI 1:8</code></nobr><br><nobr>🔸 <code>OFAL 1:10</code></nobr></td>
-      <td valign='top' align='left'><b>11</b><br><nobr>🔹 <b>바로팜</b></nobr><br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
-      <td valign='top' align='left'><b>12</b><br><nobr>🔹 <b>넥스아이</b></nobr><br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
-      <td valign='top' align='left'><b>13</b><br><nobr>🔸 <code>JZ 1:15</code></nobr><br><nobr>🔸 <code>RCT 1:20</code></nobr><br><nobr>🔸 <code>SGRX 1:10</code></nobr><br>&nbsp;</td>
+      <td valign='top' align='left'><b><ins>📍 10</ins></b><br><nobr>🔹 <a href='https://www.tossinvest.com/search?q=동원파츠'><b>동원파츠</b></a></nobr><br><nobr>🔸 <a href='https://www.tossinvest.com/search?q=JOB 1:30'><code>JOB 1:30</code></a></nobr><br><nobr>🔸 <a href='https://www.tossinvest.com/search?q=NCI 1:8'><code>NCI 1:8</code></a></nobr><br><nobr>🔸 <a href='https://www.tossinvest.com/search?q=OFAL 1:10'><code>OFAL 1:10</code></a></nobr></td>
+      <td valign='top' align='left'><b>11</b><br><nobr>🔹 <a href='https://www.tossinvest.com/search?q=바로팜'><b>바로팜</b></a></nobr><br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
+      <td valign='top' align='left'><b>12</b><br><nobr>🔹 <a href='https://www.tossinvest.com/search?q=넥스아이'><b>넥스아이</b></a></nobr><br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
+      <td valign='top' align='left'><b>13</b><br><nobr>🔸 <a href='https://www.tossinvest.com/search?q=JZ 1:15'><code>JZ 1:15</code></a></nobr><br><nobr>🔸 <a href='https://www.tossinvest.com/search?q=RCT 1:20'><code>RCT 1:20</code></a></nobr><br><nobr>🔸 <a href='https://www.tossinvest.com/search?q=SGRX 1:10'><code>SGRX 1:10</code></a></nobr><br>&nbsp;</td>
       <td valign='top' align='left'><b><font color='#03A9F4'>14</font></b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
     </tr>
     <tr>
       <td valign='top' align='left'><b><font color='#FF5722'>15</font></b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
-      <td valign='top' align='left'><b>16</b><br><nobr>🔹 <b>영광와이케이엠씨</b></nobr><br><nobr>🔸 <code>YMT 1:10</code></nobr><br>&nbsp;<br>&nbsp;</td>
-      <td valign='top' align='left'><b>17</b><br><nobr>🔹 <b>옵토닉스</b></nobr><br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
-      <td valign='top' align='left'><b>18</b><br><nobr>🔹 <b>에이엘로봇</b></nobr><br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
+      <td valign='top' align='left'><b>16</b><br><nobr>🔹 <a href='https://www.tossinvest.com/search?q=영광와이케이엠씨'><b>영광와이케이엠씨</b></a></nobr><br><nobr>🔸 <a href='https://www.tossinvest.com/search?q=YMT 1:10'><code>YMT 1:10</code></a></nobr><br>&nbsp;<br>&nbsp;</td>
+      <td valign='top' align='left'><b>17</b><br><nobr>🔹 <a href='https://www.tossinvest.com/search?q=옵토닉스'><b>옵토닉스</b></a></nobr><br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
+      <td valign='top' align='left'><b>18</b><br><nobr>🔹 <a href='https://www.tossinvest.com/search?q=에이엘로봇'><b>에이엘로봇</b></a></nobr><br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
       <td valign='top' align='left'><b>19</b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
-      <td valign='top' align='left'><b>20</b><br><nobr>🔹 <b>하나에어로다이내믹스</b></nobr><br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
+      <td valign='top' align='left'><b>20</b><br><nobr>🔹 <a href='https://www.tossinvest.com/search?q=하나에어로다이내믹스'><b>하나에어로다이내믹스</b></a></nobr><br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
       <td valign='top' align='left'><b><font color='#03A9F4'>21</font></b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
     </tr>
     <tr>
@@ -62,8 +62,8 @@
   </tbody>
 </table>
 
-> 🔹 **국내 공모주 상장** &nbsp;|&nbsp; 🔸 **미국 액면병합 (Reverse Split)**
+> 🔹 **국내 공모주 상장** &nbsp;|&nbsp; 🔸 **미국 액면병합 (Reverse Split)** *(클릭 시 토스증권 이동)*
 
-<sub>*마지막 자동 갱신: 2026-11-10 14:45 KST (via Auto Sync)*</sub>
+<sub>*마지막 자동 갱신: 2026-11-10 15:44 KST (via Auto Sync)*</sub>
 
 <!-- CALENDAR:END -->
