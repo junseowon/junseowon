@@ -12,4 +12,3 @@
 <sub>*마지막 자동 갱신: 2026-11-10 13:58 KST (via GitHub Actions)*</sub>
 
 <!-- CALENDAR:END -->
-안녕
