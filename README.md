@@ -26,19 +26,19 @@
     <tr>
       <td valign='top' align='left'><b><font color='#FF5722'>8</font></b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
       <td valign='top' align='left'><b>9</b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
-      <td valign='top' align='left'><b><ins>📍 10</ins></b><br><nobr>🔹 <a href='https://www.tossinvest.com/stocks/0162D0/order' target='_blank'><font color='#E6EDF3'><b>동원파츠</b></font></a></nobr><br><nobr>🔸 <a href='https://www.tossinvest.com/stocks/JOB/order' target='_blank'><code>JOB 1:30</code></a></nobr><br><nobr>🔸 <a href='https://www.tossinvest.com/stocks/NCI/order' target='_blank'><code>NCI 1:8</code></a></nobr><br><nobr>🔸 <a href='https://www.tossinvest.com/stocks/OFAL/order' target='_blank'><code>OFAL 1:10</code></a></nobr></td>
-      <td valign='top' align='left'><b>11</b><br><nobr>🔹 <a href='https://www.tossinvest.com/stocks/A952366/order' target='_blank'><font color='#E6EDF3'><b>바로팜</b></font></a></nobr><br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
-      <td valign='top' align='left'><b>12</b><br><nobr>🔹 <a href='https://www.tossinvest.com/stocks/A493410/order' target='_blank'><font color='#E6EDF3'><b>넥스아이</b></font></a></nobr><br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
-      <td valign='top' align='left'><b>13</b><br><nobr>🔸 <a href='https://www.tossinvest.com/stocks/JZ/order' target='_blank'><code>JZ 1:15</code></a></nobr><br><nobr>🔸 <a href='https://www.tossinvest.com/stocks/RCT/order' target='_blank'><code>RCT 1:20</code></a></nobr><br><nobr>🔸 <a href='https://www.tossinvest.com/stocks/SGRX/order' target='_blank'><code>SGRX 1:10</code></a></nobr><br>&nbsp;</td>
+      <td valign='top' align='left'><b><ins>📍 10</ins></b><br><nobr>🔹 <a href='https://www.tossinvest.com/stocks/0162D0/order'><kbd><b>동원파츠</b></kbd></a></nobr><br><nobr>🔸 <a href='https://www.tossinvest.com/stocks/JOB/order'><kbd>JOB 1:30</kbd></a></nobr><br><nobr>🔸 <a href='https://www.tossinvest.com/stocks/NCI/order'><kbd>NCI 1:8</kbd></a></nobr><br><nobr>🔸 <a href='https://www.tossinvest.com/stocks/OFAL/order'><kbd>OFAL 1:10</kbd></a></nobr></td>
+      <td valign='top' align='left'><b>11</b><br><nobr>🔹 <a href='https://www.tossinvest.com/stocks/A952366/order'><kbd><b>바로팜</b></kbd></a></nobr><br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
+      <td valign='top' align='left'><b>12</b><br><nobr>🔹 <a href='https://www.tossinvest.com/stocks/A493410/order'><kbd><b>넥스아이</b></kbd></a></nobr><br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
+      <td valign='top' align='left'><b>13</b><br><nobr>🔸 <a href='https://www.tossinvest.com/stocks/JZ/order'><kbd>JZ 1:15</kbd></a></nobr><br><nobr>🔸 <a href='https://www.tossinvest.com/stocks/RCT/order'><kbd>RCT 1:20</kbd></a></nobr><br><nobr>🔸 <a href='https://www.tossinvest.com/stocks/SGRX/order'><kbd>SGRX 1:10</kbd></a></nobr><br>&nbsp;</td>
       <td valign='top' align='left'><b><font color='#03A9F4'>14</font></b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
     </tr>
     <tr>
       <td valign='top' align='left'><b><font color='#FF5722'>15</font></b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
-      <td valign='top' align='left'><b>16</b><br><nobr>🔹 <a href='https://www.tossinvest.com/stocks/A345290/order' target='_blank'><font color='#E6EDF3'><b>영광와이케이엠씨</b></font></a></nobr><br><nobr>🔸 <a href='https://www.tossinvest.com/stocks/YMT/order' target='_blank'><code>YMT 1:10</code></a></nobr><br>&nbsp;<br>&nbsp;</td>
-      <td valign='top' align='left'><b>17</b><br><nobr>🔹 <a href='https://www.tossinvest.com/stocks/A493260/order' target='_blank'><font color='#E6EDF3'><b>옵토닉스</b></font></a></nobr><br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
-      <td valign='top' align='left'><b>18</b><br><nobr>🔹 <a href='https://www.tossinvest.com/stocks/A471800/order' target='_blank'><font color='#E6EDF3'><b>에이엘로봇</b></font></a></nobr><br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
+      <td valign='top' align='left'><b>16</b><br><nobr>🔹 <a href='https://www.tossinvest.com/stocks/A345290/order'><kbd><b>영광와이케이엠씨</b></kbd></a></nobr><br><nobr>🔸 <a href='https://www.tossinvest.com/stocks/YMT/order'><kbd>YMT 1:10</kbd></a></nobr><br>&nbsp;<br>&nbsp;</td>
+      <td valign='top' align='left'><b>17</b><br><nobr>🔹 <a href='https://www.tossinvest.com/stocks/A493260/order'><kbd><b>옵토닉스</b></kbd></a></nobr><br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
+      <td valign='top' align='left'><b>18</b><br><nobr>🔹 <a href='https://www.tossinvest.com/stocks/A471800/order'><kbd><b>에이엘로봇</b></kbd></a></nobr><br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
       <td valign='top' align='left'><b>19</b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
-      <td valign='top' align='left'><b>20</b><br><nobr>🔹 <a href='https://www.tossinvest.com/stocks/A271160/order' target='_blank'><font color='#E6EDF3'><b>하나에어로다이내믹스</b></font></a></nobr><br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
+      <td valign='top' align='left'><b>20</b><br><nobr>🔹 <a href='https://www.tossinvest.com/stocks/A271160/order'><kbd><b>하나에어로다이내믹스</b></kbd></a></nobr><br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
       <td valign='top' align='left'><b><font color='#03A9F4'>21</font></b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
     </tr>
     <tr>
@@ -64,6 +64,6 @@
 
 > 🔹 **국내 공모주 상장** &nbsp;|&nbsp; 🔸 **미국 액면병합 (Reverse Split)** *(클릭 시 토스증권 이동)*
 
-<sub>*마지막 자동 갱신: 2026-11-10 15:54 KST (via Auto Sync)*</sub>
+<sub>*마지막 자동 갱신: 2026-11-10 15:56 KST (via Auto Sync)*</sub>
 
 <!-- CALENDAR:END -->
