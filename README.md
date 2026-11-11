@@ -64,7 +64,7 @@
 
 > 🔹 **국내 공모주 상장** &nbsp;|&nbsp; 🔸 **미국 액면병합 (Reverse Split)** *(클릭 시 토스증권 이동)*
 
-<sub>*마지막 자동 갱신: 2026-11-11 14:38 KST (via Auto Sync)*</sub>
+<sub>*마지막 자동 갱신: 2026-11-11 14:40 KST (via Auto Sync)*</sub>
 
 <!-- CALENDAR:END -->
 
