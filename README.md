@@ -28,7 +28,7 @@
       <td valign='top' align='left'><b>9</b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
       <td valign='top' align='left'><b>10</b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
       <td valign='top' align='left'><b>11</b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
-      <td valign='top' align='left'><b><ins>📍 12</ins></b><br><nobr>🔹 <a href='https://www.tossinvest.com/stocks/A493410/order'><kbd><b>넥스아이</b></kbd></a></nobr><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
+      <td valign='top' align='left'><b><ins>📍 12</ins></b><br><nobr>🔹 <a href='https://www.tossinvest.com/stocks/A493410/order'><kbd><b>넥스아이</b></kbd></a></nobr><br><nobr>🔸 <a href='https://www.tossinvest.com/stocks/ARAI/order'><kbd>ARAI 1:48</kbd></a></nobr><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
       <td valign='top' align='left'><b>13</b><br><nobr>🔸 <a href='https://www.tossinvest.com/stocks/JZ/order'><kbd>JZ 1:15</kbd></a></nobr><br><nobr>🔸 <a href='https://www.tossinvest.com/stocks/RCT/order'><kbd>RCT 1:20</kbd></a></nobr><br><nobr>🔸 <a href='https://www.tossinvest.com/stocks/SGRX/order'><kbd>SGRX 1:10</kbd></a></nobr><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
       <td valign='top' align='left'><b><font color='#03A9F4'>14</font></b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
     </tr>
@@ -64,7 +64,7 @@
 
 > 🔹 **국내 공모주 상장** &nbsp;|&nbsp; 🔸 **미국 액면병합 (Reverse Split)** *(클릭 시 토스증권 이동)*
 
-<sub>*마지막 자동 갱신: 2026-11-12 09:41 KST (via Auto Sync)*</sub>
+<sub>*마지막 자동 갱신: 2026-11-12 20:00 KST (via Auto Sync)*</sub>
 
 <!-- CALENDAR:END -->
 
