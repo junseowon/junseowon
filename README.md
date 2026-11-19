@@ -15,44 +15,44 @@
   </thead>
   <tbody>
     <tr>
-      <td valign='top' align='left'><b><font color='#FF5722'>1</font></b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
-      <td valign='top' align='left'><b>2</b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
-      <td valign='top' align='left'><b>3</b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
-      <td valign='top' align='left'><b>4</b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
-      <td valign='top' align='left'><b>5</b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
-      <td valign='top' align='left'><b>6</b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
-      <td valign='top' align='left'><b><font color='#03A9F4'>7</font></b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
+      <td valign='top' align='left'><b><font color='#FF5722'>1</font></b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
+      <td valign='top' align='left'><b>2</b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
+      <td valign='top' align='left'><b>3</b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
+      <td valign='top' align='left'><b>4</b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
+      <td valign='top' align='left'><b>5</b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
+      <td valign='top' align='left'><b>6</b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
+      <td valign='top' align='left'><b><font color='#03A9F4'>7</font></b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
     </tr>
     <tr>
-      <td valign='top' align='left'><b><font color='#FF5722'>8</font></b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
-      <td valign='top' align='left'><b>9</b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
-      <td valign='top' align='left'><b>10</b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
-      <td valign='top' align='left'><b>11</b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
-      <td valign='top' align='left'><b>12</b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
-      <td valign='top' align='left'><b>13</b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
-      <td valign='top' align='left'><b><font color='#03A9F4'>14</font></b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
+      <td valign='top' align='left'><b><font color='#FF5722'>8</font></b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
+      <td valign='top' align='left'><b>9</b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
+      <td valign='top' align='left'><b>10</b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
+      <td valign='top' align='left'><b>11</b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
+      <td valign='top' align='left'><b>12</b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
+      <td valign='top' align='left'><b>13</b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
+      <td valign='top' align='left'><b><font color='#03A9F4'>14</font></b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
     </tr>
     <tr>
-      <td valign='top' align='left'><b><font color='#FF5722'>15</font></b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
-      <td valign='top' align='left'><b>16</b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
-      <td valign='top' align='left'><b>17</b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
-      <td valign='top' align='left'><b>18</b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
-      <td valign='top' align='left'><b><ins>📍 19</ins></b><br><nobr>🔸 <a href='https://www.tossinvest.com/stocks/LICN/order'><kbd>LICN 1:100</kbd></a></nobr><br><nobr>🔸 <a href='https://www.tossinvest.com/stocks/BITI/order'><kbd>BITI 1:2</kbd></a></nobr><br><nobr>🔸 <a href='https://www.tossinvest.com/stocks/RWM/order'><kbd>RWM 1:2</kbd></a></nobr><br><nobr>🔸 <a href='https://www.tossinvest.com/stocks/UBT/order'><kbd>UBT 1:2</kbd></a></nobr><br><nobr>🔸 <a href='https://www.tossinvest.com/stocks/DXD/order'><kbd>DXD 1:2</kbd></a></nobr><br><nobr>🔸 <a href='https://www.tossinvest.com/stocks/MZZ/order'><kbd>MZZ 1:4</kbd></a></nobr><br><nobr>🔸 <a href='https://www.tossinvest.com/stocks/DUG/order'><kbd>DUG 1:2</kbd></a></nobr><br><nobr>🔸 <a href='https://www.tossinvest.com/stocks/QID/order'><kbd>QID 1:4</kbd></a></nobr><br><nobr>🔸 <a href='https://www.tossinvest.com/stocks/SSG/order'><kbd>SSG 1:2</kbd></a></nobr><br><nobr>🔸 <a href='https://www.tossinvest.com/stocks/REW/order'><kbd>REW 1:2</kbd></a></nobr><br><nobr>🔸 <a href='https://www.tossinvest.com/stocks/VIXM/order'><kbd>VIXM 1:2</kbd></a></nobr><br><nobr>🔸 <a href='https://www.tossinvest.com/stocks/SCNI/order'><kbd>SCNI 1:4</kbd></a></nobr><br><nobr>🔸 <a href='https://www.tossinvest.com/stocks/SNTI/order'><kbd>SNTI 1:33</kbd></a></nobr><br><nobr>🔸 <a href='https://www.tossinvest.com/stocks/SOS/order'><kbd>SOS 1:20</kbd></a></nobr><br><nobr>🔸 <a href='https://www.tossinvest.com/stocks/SMDD/order'><kbd>SMDD 1:2</kbd></a></nobr><br><nobr>🔸 <a href='https://www.tossinvest.com/stocks/YFOR/order'><kbd>YFOR 1:50</kbd></a></nobr><br><nobr>🔸 <a href='https://www.tossinvest.com/stocks/BITO/order'><kbd>BITO 1:2</kbd></a></nobr></td>
-      <td valign='top' align='left'><b>20</b><br><nobr>🔹 <a href='https://www.tossinvest.com/stocks/A271160/order'><kbd><b>하나에어로다이내믹스</b></kbd></a></nobr><br><nobr>🔸 <a href='https://www.tossinvest.com/stocks/AIRI/order'><kbd>AIRI 1:5</kbd></a></nobr><br><nobr>🔸 <a href='https://www.tossinvest.com/stocks/GNS/order'><kbd>GNS 1:10</kbd></a></nobr><br><nobr>🔸 <a href='https://www.tossinvest.com/stocks/NTCL/order'><kbd>NTCL 1:10</kbd></a></nobr><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
-      <td valign='top' align='left'><b><font color='#03A9F4'>21</font></b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
+      <td valign='top' align='left'><b><font color='#FF5722'>15</font></b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
+      <td valign='top' align='left'><b>16</b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
+      <td valign='top' align='left'><b>17</b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
+      <td valign='top' align='left'><b>18</b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
+      <td valign='top' align='left'><b>19</b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
+      <td valign='top' align='left'><b><ins>📍 20</ins></b><br><nobr>🔹 <a href='https://www.tossinvest.com/stocks/A271160/order'><kbd><b>하나에어로다이내믹스</b></kbd></a></nobr><br><nobr>🔸 <a href='https://www.tossinvest.com/stocks/AIRI/order'><kbd>AIRI 1:5</kbd></a></nobr><br><nobr>🔸 <a href='https://www.tossinvest.com/stocks/GNS/order'><kbd>GNS 1:10</kbd></a></nobr><br><nobr>🔸 <a href='https://www.tossinvest.com/stocks/NTCL/order'><kbd>NTCL 1:10</kbd></a></nobr></td>
+      <td valign='top' align='left'><b><font color='#03A9F4'>21</font></b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
     </tr>
     <tr>
-      <td valign='top' align='left'><b><font color='#FF5722'>22</font></b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
-      <td valign='top' align='left'><b>23</b><br><nobr>🔸 <a href='https://www.tossinvest.com/stocks/ITP/order'><kbd>ITP 1:40</kbd></a></nobr><br><nobr>🔸 <a href='https://www.tossinvest.com/stocks/RLYB/order'><kbd>RLYB 1:2</kbd></a></nobr><br><nobr>🔸 <a href='https://www.tossinvest.com/stocks/TOPP/order'><kbd>TOPP 1:5</kbd></a></nobr><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
-      <td valign='top' align='left'><b>24</b><br><nobr>🔹 <a href='https://www.tossinvest.com/stocks/A498150/order'><kbd><b>엠비디</b></kbd></a></nobr><br><nobr>🔸 <a href='https://www.tossinvest.com/stocks/RBNE/order'><kbd>RBNE 1:75</kbd></a></nobr><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
-      <td valign='top' align='left'><b>25</b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
-      <td valign='top' align='left'><b>26</b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
-      <td valign='top' align='left'><b>27</b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
-      <td valign='top' align='left'><b><font color='#03A9F4'>28</font></b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
+      <td valign='top' align='left'><b><font color='#FF5722'>22</font></b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
+      <td valign='top' align='left'><b>23</b><br><nobr>🔸 <a href='https://www.tossinvest.com/stocks/ITP/order'><kbd>ITP 1:40</kbd></a></nobr><br><nobr>🔸 <a href='https://www.tossinvest.com/stocks/RLYB/order'><kbd>RLYB 1:2</kbd></a></nobr><br><nobr>🔸 <a href='https://www.tossinvest.com/stocks/TOPP/order'><kbd>TOPP 1:5</kbd></a></nobr><br>&nbsp;</td>
+      <td valign='top' align='left'><b>24</b><br><nobr>🔹 <a href='https://www.tossinvest.com/stocks/A498150/order'><kbd><b>엠비디</b></kbd></a></nobr><br><nobr>🔸 <a href='https://www.tossinvest.com/stocks/RBNE/order'><kbd>RBNE 1:75</kbd></a></nobr><br>&nbsp;<br>&nbsp;</td>
+      <td valign='top' align='left'><b>25</b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
+      <td valign='top' align='left'><b>26</b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
+      <td valign='top' align='left'><b>27</b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
+      <td valign='top' align='left'><b><font color='#03A9F4'>28</font></b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
     </tr>
     <tr>
-      <td valign='top' align='left'><b><font color='#FF5722'>29</font></b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
-      <td valign='top' align='left'><b>30</b><br><nobr>🔹 <a href='https://www.tossinvest.com/stocks/0175C0/order'><kbd><b>유캐스트</b></kbd></a></nobr><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
+      <td valign='top' align='left'><b><font color='#FF5722'>29</font></b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
+      <td valign='top' align='left'><b>30</b><br><nobr>🔹 <a href='https://www.tossinvest.com/stocks/0175C0/order'><kbd><b>유캐스트</b></kbd></a></nobr><br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
       <td valign='top' align='left'>&nbsp;</td>
       <td valign='top' align='left'>&nbsp;</td>
       <td valign='top' align='left'>&nbsp;</td>
@@ -64,7 +64,7 @@
 
 > 🔹 **국내 공모주 상장** &nbsp;|&nbsp; 🔸 **미국 액면병합 (Reverse Split)** *(클릭 시 토스증권 이동)*
 
-<sub>*마지막 자동 갱신: 2026-11-19 20:00 KST (via Auto Sync)*</sub>
+<sub>*마지막 자동 갱신: 2026-11-20 00:05 KST (via Auto Sync)*</sub>
 
 <!-- CALENDAR:END -->
 
