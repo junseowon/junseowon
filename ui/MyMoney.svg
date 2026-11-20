@@ -51,22 +51,22 @@
 
   <!-- 오른쪽 현재 금액 / 목표 금액 -->
   <text x="748" y="46" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="16" font-weight="700">
-    <tspan class="current-text">$10,000</tspan>
+    <tspan class="current-text">$40,000</tspan>
     <tspan class="goal-text"> / $100,000</tspan>
   </text>
 
   <!-- 게이지 배경 트랙 (전체 폭: 696px) -->
   <rect class="track-bg" x="52" y="66" width="696" height="22" rx="11" stroke-width="1" />
 
-  <!-- 게이지 채움 바 (10% -> 696 * 0.10 = 69.6) -->
+  <!-- 게이지 채움 바 (40% -> 696 * 0.40 = 278.4) -->
   <g clip-path="url(#trackClip)">
     <rect x="52" y="66" width="0" height="22" rx="11" fill="url(#moneyWave)">
-      <animate attributeName="width" from="0" to="69.6" dur="1.4s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1" />
+      <animate attributeName="width" from="0" to="278.4" dur="1.4s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1" />
     </rect>
   </g>
 
   <!-- 중앙 퍼센트 텍스트 -->
   <text class="percent-text" x="400" y="81" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" font-weight="800">
-    10.0%
+    40.0%
   </text>
 </svg>
