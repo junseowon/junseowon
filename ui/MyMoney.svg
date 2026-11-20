@@ -24,7 +24,7 @@
   </style>
 
   <defs>
-    <!-- 끊김 없는 무한 루프 물결 그라데이션 (spreadMethod="repeat" + 정확한 1주기 이동) -->
+    <!-- 끊김 없는 무한 루프 물결 그라데이션 -->
     <linearGradient id="moneyWave" x1="0%" y1="0%" x2="100%" y2="0%" spreadMethod="repeat">
       <stop offset="0%" stop-color="#1e8e3e" />
       <stop offset="25%" stop-color="#2ea44f" />
@@ -51,22 +51,22 @@
 
   <!-- 오른쪽 현재 금액 / 목표 금액 -->
   <text x="748" y="46" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="16" font-weight="700">
-    <tspan class="current-text">$3,500</tspan>
-    <tspan class="goal-text"> / $10,000</tspan>
+    <tspan class="current-text">$10,000</tspan>
+    <tspan class="goal-text"> / $100,000</tspan>
   </text>
 
   <!-- 게이지 배경 트랙 (전체 폭: 696px) -->
   <rect class="track-bg" x="52" y="66" width="696" height="22" rx="11" stroke-width="1" />
 
-  <!-- 게이지 채움 바 (35% -> 696 * 0.35 = 243.6) -->
+  <!-- 게이지 채움 바 (10% -> 696 * 0.10 = 69.6) -->
   <g clip-path="url(#trackClip)">
     <rect x="52" y="66" width="0" height="22" rx="11" fill="url(#moneyWave)">
-      <animate attributeName="width" from="0" to="243.6" dur="1.4s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1" />
+      <animate attributeName="width" from="0" to="69.6" dur="1.4s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1" />
     </rect>
   </g>
 
   <!-- 중앙 퍼센트 텍스트 -->
   <text class="percent-text" x="400" y="81" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" font-weight="800">
-    35.0%
+    10.0%
   </text>
 </svg>
