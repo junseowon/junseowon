@@ -24,15 +24,15 @@
   </style>
 
   <defs>
-    <!-- 달러 그린 물결 그라데이션 -->
-    <linearGradient id="moneyWave" x1="0%" y1="0%" x2="200%" y2="0%">
-      <stop offset="0%" stop-color="#1a7f37" />
+    <!-- 끊김 없는 무한 루프 물결 그라데이션 (spreadMethod="repeat" + 정확한 1주기 이동) -->
+    <linearGradient id="moneyWave" x1="0%" y1="0%" x2="100%" y2="0%" spreadMethod="repeat">
+      <stop offset="0%" stop-color="#1e8e3e" />
       <stop offset="25%" stop-color="#2ea44f" />
-      <stop offset="50%" stop-color="#56d364" />
+      <stop offset="50%" stop-color="#6ee77b" />
       <stop offset="75%" stop-color="#2ea44f" />
-      <stop offset="100%" stop-color="#1a7f37" />
-      <animate attributeName="x1" from="-100%" to="0%" dur="3s" repeatCount="indefinite" />
-      <animate attributeName="x2" from="100%" to="200%" dur="3s" repeatCount="indefinite" />
+      <stop offset="100%" stop-color="#1e8e3e" />
+      <animate attributeName="x1" from="-100%" to="0%" dur="2.8s" repeatCount="indefinite" />
+      <animate attributeName="x2" from="0%" to="100%" dur="2.8s" repeatCount="indefinite" />
     </linearGradient>
 
     <!-- 게이지 트랙 둥근 모서리 클리핑 -->
@@ -60,8 +60,8 @@
 
   <!-- 게이지 채움 바 (35% -> 696 * 0.35 = 243.6) -->
   <g clip-path="url(#trackClip)">
-    <rect x="52" y="66" width="0" height="22" fill="url(#moneyWave)">
-      <animate attributeName="width" from="0" to="243.6" dur="1.5s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1" />
+    <rect x="52" y="66" width="0" height="22" rx="11" fill="url(#moneyWave)">
+      <animate attributeName="width" from="0" to="243.6" dur="1.4s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1" />
     </rect>
   </g>
 
