@@ -1,0 +1,72 @@
+<svg width="800" height="120" viewBox="0 0 800 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    /* 라이트 모드 기본 색상 */
+    .card-bg { fill: #ffffff; stroke: #d0d7de; }
+    .badge-bg { fill: #2ea44f; fill-opacity: 0.15; stroke: #2ea44f; }
+    .badge-text { fill: #1a7f37; }
+    .title-text { fill: #24292f; }
+    .current-text { fill: #1a7f37; }
+    .goal-text { fill: #57606a; }
+    .track-bg { fill: #eaeef2; stroke: #d0d7de; }
+    .percent-text { fill: #24292f; }
+
+    /* GitHub 다크 모드 자동 전환 */
+    @media (prefers-color-scheme: dark) {
+      .card-bg { fill: #0d1117; stroke: #30363d; }
+      .badge-bg { fill: #3fb950; fill-opacity: 0.15; stroke: #3fb950; }
+      .badge-text { fill: #3fb950; }
+      .title-text { fill: #e6edf3; }
+      .current-text { fill: #3fb950; }
+      .goal-text { fill: #8b949e; }
+      .track-bg { fill: #161b22; stroke: #30363d; }
+      .percent-text { fill: #ffffff; }
+    }
+  </style>
+
+  <defs>
+    <!-- 달러 그린 물결 그라데이션 -->
+    <linearGradient id="moneyWave" x1="0%" y1="0%" x2="200%" y2="0%">
+      <stop offset="0%" stop-color="#1a7f37" />
+      <stop offset="25%" stop-color="#2ea44f" />
+      <stop offset="50%" stop-color="#56d364" />
+      <stop offset="75%" stop-color="#2ea44f" />
+      <stop offset="100%" stop-color="#1a7f37" />
+      <animate attributeName="x1" from="-100%" to="0%" dur="3s" repeatCount="indefinite" />
+      <animate attributeName="x2" from="100%" to="200%" dur="3s" repeatCount="indefinite" />
+    </linearGradient>
+
+    <!-- 게이지 트랙 둥근 모서리 클리핑 -->
+    <clipPath id="trackClip">
+      <rect x="52" y="66" width="696" height="22" rx="11" />
+    </clipPath>
+  </defs>
+
+  <!-- 카드 배경 -->
+  <rect class="card-bg" x="30" y="10" width="740" height="100" rx="14" stroke-width="1.5" />
+
+  <!-- 왼쪽 $ 배지 & 타이틀 -->
+  <rect class="badge-bg" x="52" y="26" width="28" height="28" rx="8" stroke-width="1" />
+  <text class="badge-text" x="66" y="45" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="16" font-weight="800">$</text>
+  <text class="title-text" x="90" y="46" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Helvetica, Arial, sans-serif" font-size="17" font-weight="700">Seed Money Gauge</text>
+
+  <!-- 오른쪽 현재 금액 / 목표 금액 -->
+  <text x="748" y="46" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="16" font-weight="700">
+    <tspan class="current-text">$3,500</tspan>
+    <tspan class="goal-text"> / $10,000</tspan>
+  </text>
+
+  <!-- 게이지 배경 트랙 (전체 폭: 696px) -->
+  <rect class="track-bg" x="52" y="66" width="696" height="22" rx="11" stroke-width="1" />
+
+  <!-- 게이지 채움 바 (35% -> 696 * 0.35 = 243.6) -->
+  <g clip-path="url(#trackClip)">
+    <rect x="52" y="66" width="0" height="22" fill="url(#moneyWave)">
+      <animate attributeName="width" from="0" to="243.6" dur="1.5s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1" />
+    </rect>
+  </g>
+
+  <!-- 중앙 퍼센트 텍스트 -->
+  <text class="percent-text" x="400" y="81" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" font-weight="800">
+    35.0%
+  </text>
+</svg>
