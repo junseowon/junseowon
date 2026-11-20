@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./ui/MyMoney.svg" alt="Seed Money Gauge" width="800" />
+</div>
+
 <!-- CALENDAR:START -->
 ### 🗓️ 2026년 11월 주식 & 공모주 캘린더
 
