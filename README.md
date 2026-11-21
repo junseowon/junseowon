@@ -43,10 +43,10 @@
       <td valign='top' align='left'><b>18</b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
       <td valign='top' align='left'><b>19</b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
       <td valign='top' align='left'><b>20</b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
-      <td valign='top' align='left'><b><ins>📍 21</ins></b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
+      <td valign='top' align='left'><b><font color='#03A9F4'>21</font></b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
     </tr>
     <tr>
-      <td valign='top' align='left'><b><font color='#FF5722'>22</font></b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
+      <td valign='top' align='left'><b><ins>📍 22</ins></b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
       <td valign='top' align='left'><b>23</b><br><nobr>🔸 <a href='https://www.tossinvest.com/stocks/RIME/order'><kbd>RIME 1:10</kbd></a></nobr><br><nobr>🔸 <a href='https://www.tossinvest.com/stocks/AEI/order'><kbd>AEI 1:5</kbd></a></nobr><br><nobr>🔸 <a href='https://www.tossinvest.com/stocks/AUUD/order'><kbd>AUUD 1:13.9</kbd></a></nobr><br><nobr>🔸 <a href='https://www.tossinvest.com/stocks/BRNX/order'><kbd>BRNX 1:4</kbd></a></nobr><br><nobr>🔸 <a href='https://www.tossinvest.com/stocks/CYAB/order'><kbd>CYAB 1:30</kbd></a></nobr><br><nobr>🔸 <a href='https://www.tossinvest.com/stocks/IMCC/order'><kbd>IMCC 1:9</kbd></a></nobr><br><nobr>🔸 <a href='https://www.tossinvest.com/stocks/ITP/order'><kbd>ITP 1:40</kbd></a></nobr><br><nobr>🔸 <a href='https://www.tossinvest.com/stocks/LSTA/order'><kbd>LSTA 1:15</kbd></a></nobr><br><nobr>🔸 <a href='https://www.tossinvest.com/stocks/PARA/order'><kbd>PARA 1:100</kbd></a></nobr><br><nobr>🔸 <a href='https://www.tossinvest.com/stocks/AVZO/order'><kbd>AVZO 1:2</kbd></a></nobr><br><nobr>🔸 <a href='https://www.tossinvest.com/stocks/SMTK/order'><kbd>SMTK 1:5</kbd></a></nobr><br><nobr>🔸 <a href='https://www.tossinvest.com/stocks/SRTM/order'><kbd>SRTM 1:9</kbd></a></nobr><br><nobr>🔸 <a href='https://www.tossinvest.com/stocks/TOPP/order'><kbd>TOPP 1:5</kbd></a></nobr></td>
       <td valign='top' align='left'><b>24</b><br><nobr>🔹 <a href='https://www.tossinvest.com/stocks/A498150/order'><kbd><b>엠비디</b></kbd></a></nobr><br><nobr>🔸 <a href='https://www.tossinvest.com/stocks/RBNE/order'><kbd>RBNE 1:75</kbd></a></nobr><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
       <td valign='top' align='left'><b>25</b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
@@ -68,7 +68,7 @@
 
 > 🔹 **국내 공모주 상장** &nbsp;|&nbsp; 🔸 **미국 액면병합 (Reverse Split)** *(클릭 시 토스증권 이동)*
 
-<sub>*마지막 자동 갱신: 2026-11-21 20:00 KST (via Auto Sync)*</sub>
+<sub>*마지막 자동 갱신: 2026-11-22 00:05 KST (via Auto Sync)*</sub>
 
 <!-- CALENDAR:END -->
 
