@@ -51,12 +51,12 @@
       <td valign='top' align='left'><b>24</b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
       <td valign='top' align='left'><b>25</b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
       <td valign='top' align='left'><b><ins>📍 26</ins></b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
-      <td valign='top' align='left'><b>27</b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
+      <td valign='top' align='left'><b>27</b><br><nobr>🔸 <a href='https://www.tossinvest.com/stocks/HUDI/order'><kbd>HUDI 1:8</kbd></a></nobr><br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
       <td valign='top' align='left'><b><font color='#03A9F4'>28</font></b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
     </tr>
     <tr>
       <td valign='top' align='left'><b><font color='#FF5722'>29</font></b><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</td>
-      <td valign='top' align='left'><b>30</b><br><nobr>🔹 <a href='https://www.tossinvest.com/stocks/0175C0/order'><kbd><b>유캐스트</b></kbd></a></nobr><br><nobr>🔸 <a href='https://www.tossinvest.com/stocks/JZ/order'><kbd>JZ 1:15</kbd></a></nobr><br>&nbsp;<br>&nbsp;</td>
+      <td valign='top' align='left'><b>30</b><br><nobr>🔹 <a href='https://www.tossinvest.com/stocks/0175C0/order'><kbd><b>유캐스트</b></kbd></a></nobr><br><nobr>🔸 <a href='https://www.tossinvest.com/stocks/DDC/order'><kbd>DDC 1:7.99</kbd></a></nobr><br><nobr>🔸 <a href='https://www.tossinvest.com/stocks/JZ/order'><kbd>JZ 1:15</kbd></a></nobr><br>&nbsp;</td>
       <td valign='top' align='left'>&nbsp;</td>
       <td valign='top' align='left'>&nbsp;</td>
       <td valign='top' align='left'>&nbsp;</td>
@@ -68,7 +68,7 @@
 
 > 🔹 **국내 공모주 상장** &nbsp;|&nbsp; 🔸 **미국 액면병합 (Reverse Split)** *(클릭 시 토스증권 이동)*
 
-<sub>*마지막 자동 갱신: 2026-11-26 00:05 KST (via Auto Sync)*</sub>
+<sub>*마지막 자동 갱신: 2026-11-26 20:00 KST (via Auto Sync)*</sub>
 
 <!-- CALENDAR:END -->
 
